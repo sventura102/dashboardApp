@@ -16,15 +16,10 @@
       "static/chunks/_c4c472._.js",
       "static/chunks/_05f77e._.js"
     ],
-    "/dashboard/page": [
+    "/_not-found/page": [
       "static/chunks/[root of the server]__159be1._.css",
       "static/chunks/_b677d6._.js",
       "static/chunks/app_layout_tsx_105234._.js",
-      "static/chunks/node_modules__pnpm_fa52fe._.js",
-      "static/chunks/app_b0570c._.js",
-      "static/chunks/app_dashboard_layout_tsx_8db89b._.js",
-      "static/chunks/app_dashboard_page_tsx_ce529c._.js",
-      "static/chunks/app_dashboard_page_tsx_cfee9e._.js",
       "static/chunks/fa89e_next_dist_compiled_react-dom_8b458e._.js",
       "static/chunks/fa89e_next_dist_compiled_8c87e0._.js",
       "static/chunks/fa89e_next_dist_client_543883._.js",
