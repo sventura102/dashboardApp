@@ -6,6 +6,11 @@ import { fetchRevenue, fetchLatestInvoices,fetchCardData} from '@/app/lib/data';
 
  
 export default async function Page() {
+  const connectionString = process.env.POSTGRES_URL;
+if (!connectionString) {
+  throw new Error('Database connection string is missing');
+}
+
     const revenue = await fetchRevenue();
     const latestInvoices = await fetchLatestInvoices();
     const {
