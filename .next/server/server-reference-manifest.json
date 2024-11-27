@@ -1,66 +1,36 @@
 {
   "node": {
-    "406c4f2ccb6bd38dd60a9697314bd067c6a74319d4": {
+    "606c4f2ccb6bd38dd60a9697314bd067c6a74319d4": {
       "workers": {
-        "app/dashboard/invoices/create/page": {
-          "moduleId": "(rsc)/../../../AppData/Roaming/npm/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CElektra%5C%5COneDrive%5C%5CDesktop%5C%5CdashboardApp%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%5B%224042c598e823dcdcc261bbbf77671d23a38cd78c70%22%2C%22deleteInvoice%22%5D%2C%5B%22406c4f2ccb6bd38dd60a9697314bd067c6a74319d4%22%2C%22createInvoice%22%5D%2C%5B%226034f9c61d873b9b2787597f213057caf5e9131f1d%22%2C%22updateInvoice%22%5D%5D%5D%5D&__client_imported__=!",
-          "async": false
-        },
-        "app/dashboard/invoices/[id]/edit/page": {
-          "moduleId": "(action-browser)/../../../AppData/Roaming/npm/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CElektra%5C%5COneDrive%5C%5CDesktop%5C%5CdashboardApp%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%5B%224042c598e823dcdcc261bbbf77671d23a38cd78c70%22%2C%22deleteInvoice%22%5D%2C%5B%22406c4f2ccb6bd38dd60a9697314bd067c6a74319d4%22%2C%22createInvoice%22%5D%2C%5B%226034f9c61d873b9b2787597f213057caf5e9131f1d%22%2C%22updateInvoice%22%5D%5D%5D%5D&__client_imported__=true!",
-          "async": false
-        },
         "app/dashboard/invoices/page": {
-          "moduleId": "(rsc)/../../../AppData/Roaming/npm/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CElektra%5C%5COneDrive%5C%5CDesktop%5C%5CdashboardApp%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%5B%224042c598e823dcdcc261bbbf77671d23a38cd78c70%22%2C%22deleteInvoice%22%5D%2C%5B%22406c4f2ccb6bd38dd60a9697314bd067c6a74319d4%22%2C%22createInvoice%22%5D%2C%5B%226034f9c61d873b9b2787597f213057caf5e9131f1d%22%2C%22updateInvoice%22%5D%5D%5D%5D&__client_imported__=!",
+          "moduleId": "(rsc)/../../../AppData/Roaming/npm/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CElektra%5C%5COneDrive%5C%5CDesktop%5C%5CdashboardApp%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%5B%224042c598e823dcdcc261bbbf77671d23a38cd78c70%22%2C%22deleteInvoice%22%5D%2C%5B%22606c4f2ccb6bd38dd60a9697314bd067c6a74319d4%22%2C%22createInvoice%22%5D%2C%5B%227034f9c61d873b9b2787597f213057caf5e9131f1d%22%2C%22updateInvoice%22%5D%5D%5D%5D&__client_imported__=!",
           "async": false
         }
       },
       "layer": {
-        "app/dashboard/invoices/create/page": "rsc",
-        "app/dashboard/invoices/[id]/edit/page": "action-browser",
         "app/dashboard/invoices/page": "rsc"
       }
     },
-    "6034f9c61d873b9b2787597f213057caf5e9131f1d": {
+    "7034f9c61d873b9b2787597f213057caf5e9131f1d": {
       "workers": {
-        "app/dashboard/invoices/create/page": {
-          "moduleId": "(rsc)/../../../AppData/Roaming/npm/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CElektra%5C%5COneDrive%5C%5CDesktop%5C%5CdashboardApp%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%5B%224042c598e823dcdcc261bbbf77671d23a38cd78c70%22%2C%22deleteInvoice%22%5D%2C%5B%22406c4f2ccb6bd38dd60a9697314bd067c6a74319d4%22%2C%22createInvoice%22%5D%2C%5B%226034f9c61d873b9b2787597f213057caf5e9131f1d%22%2C%22updateInvoice%22%5D%5D%5D%5D&__client_imported__=!",
-          "async": false
-        },
-        "app/dashboard/invoices/[id]/edit/page": {
-          "moduleId": "(action-browser)/../../../AppData/Roaming/npm/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CElektra%5C%5COneDrive%5C%5CDesktop%5C%5CdashboardApp%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%5B%224042c598e823dcdcc261bbbf77671d23a38cd78c70%22%2C%22deleteInvoice%22%5D%2C%5B%22406c4f2ccb6bd38dd60a9697314bd067c6a74319d4%22%2C%22createInvoice%22%5D%2C%5B%226034f9c61d873b9b2787597f213057caf5e9131f1d%22%2C%22updateInvoice%22%5D%5D%5D%5D&__client_imported__=true!",
-          "async": false
-        },
         "app/dashboard/invoices/page": {
-          "moduleId": "(rsc)/../../../AppData/Roaming/npm/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CElektra%5C%5COneDrive%5C%5CDesktop%5C%5CdashboardApp%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%5B%224042c598e823dcdcc261bbbf77671d23a38cd78c70%22%2C%22deleteInvoice%22%5D%2C%5B%22406c4f2ccb6bd38dd60a9697314bd067c6a74319d4%22%2C%22createInvoice%22%5D%2C%5B%226034f9c61d873b9b2787597f213057caf5e9131f1d%22%2C%22updateInvoice%22%5D%5D%5D%5D&__client_imported__=!",
+          "moduleId": "(rsc)/../../../AppData/Roaming/npm/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CElektra%5C%5COneDrive%5C%5CDesktop%5C%5CdashboardApp%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%5B%224042c598e823dcdcc261bbbf77671d23a38cd78c70%22%2C%22deleteInvoice%22%5D%2C%5B%22606c4f2ccb6bd38dd60a9697314bd067c6a74319d4%22%2C%22createInvoice%22%5D%2C%5B%227034f9c61d873b9b2787597f213057caf5e9131f1d%22%2C%22updateInvoice%22%5D%5D%5D%5D&__client_imported__=!",
           "async": false
         }
       },
       "layer": {
-        "app/dashboard/invoices/create/page": "rsc",
-        "app/dashboard/invoices/[id]/edit/page": "action-browser",
         "app/dashboard/invoices/page": "rsc"
       }
     },
     "4042c598e823dcdcc261bbbf77671d23a38cd78c70": {
       "workers": {
         "app/dashboard/invoices/page": {
-          "moduleId": "(rsc)/../../../AppData/Roaming/npm/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CElektra%5C%5COneDrive%5C%5CDesktop%5C%5CdashboardApp%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%5B%224042c598e823dcdcc261bbbf77671d23a38cd78c70%22%2C%22deleteInvoice%22%5D%2C%5B%22406c4f2ccb6bd38dd60a9697314bd067c6a74319d4%22%2C%22createInvoice%22%5D%2C%5B%226034f9c61d873b9b2787597f213057caf5e9131f1d%22%2C%22updateInvoice%22%5D%5D%5D%5D&__client_imported__=!",
-          "async": false
-        },
-        "app/dashboard/invoices/create/page": {
-          "moduleId": "(rsc)/../../../AppData/Roaming/npm/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CElektra%5C%5COneDrive%5C%5CDesktop%5C%5CdashboardApp%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%5B%224042c598e823dcdcc261bbbf77671d23a38cd78c70%22%2C%22deleteInvoice%22%5D%2C%5B%22406c4f2ccb6bd38dd60a9697314bd067c6a74319d4%22%2C%22createInvoice%22%5D%2C%5B%226034f9c61d873b9b2787597f213057caf5e9131f1d%22%2C%22updateInvoice%22%5D%5D%5D%5D&__client_imported__=!",
-          "async": false
-        },
-        "app/dashboard/invoices/[id]/edit/page": {
-          "moduleId": "(action-browser)/../../../AppData/Roaming/npm/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CElektra%5C%5COneDrive%5C%5CDesktop%5C%5CdashboardApp%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%5B%224042c598e823dcdcc261bbbf77671d23a38cd78c70%22%2C%22deleteInvoice%22%5D%2C%5B%22406c4f2ccb6bd38dd60a9697314bd067c6a74319d4%22%2C%22createInvoice%22%5D%2C%5B%226034f9c61d873b9b2787597f213057caf5e9131f1d%22%2C%22updateInvoice%22%5D%5D%5D%5D&__client_imported__=true!",
+          "moduleId": "(rsc)/../../../AppData/Roaming/npm/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CElektra%5C%5COneDrive%5C%5CDesktop%5C%5CdashboardApp%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%5B%224042c598e823dcdcc261bbbf77671d23a38cd78c70%22%2C%22deleteInvoice%22%5D%2C%5B%22606c4f2ccb6bd38dd60a9697314bd067c6a74319d4%22%2C%22createInvoice%22%5D%2C%5B%227034f9c61d873b9b2787597f213057caf5e9131f1d%22%2C%22updateInvoice%22%5D%5D%5D%5D&__client_imported__=!",
           "async": false
         }
       },
       "layer": {
-        "app/dashboard/invoices/page": "rsc",
-        "app/dashboard/invoices/create/page": "rsc",
-        "app/dashboard/invoices/[id]/edit/page": "action-browser"
+        "app/dashboard/invoices/page": "rsc"
       }
     }
   },
